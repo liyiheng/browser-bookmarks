@@ -41,6 +41,9 @@
 
 
 
+
+### August 21, 2019 
+- [Rust Async: Pin概念解析 - 知乎](https://zhuanlan.zhihu.com/p/67803708) 
 ### August 13, 2019 
 - [iForest （Isolation Forest）孤立森林 异常检测 入门篇 - 简书](https://www.jianshu.com/p/5af3c66e0410) 
 - [Β分布 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%CE%92%E5%88%86%E5%B8%83) 
