@@ -45,6 +45,7 @@
 
 ### August 23, 2019 
 - [WebAssembly Interface Types: Interoperate with All the Things! - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2019/08/webassembly-interface-types/) 
+- [Thoughts on Rust bloat | Raph Levien’s blog](https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html) 
 ### August 21, 2019 
 - [Rust Async: Pin概念解析 - 知乎](https://zhuanlan.zhihu.com/p/67803708) 
 ### August 13, 2019 
