@@ -44,6 +44,9 @@
 
 
 
+
+### September 2, 2019 
+- [用深度学习（CNN RNN Attention）解决大规模文本分类问题 - 综述和实践 - 知乎](https://zhuanlan.zhihu.com/p/25928551) 
 ### August 28, 2019 
 - [NLP的游戏规则从此改写？从word2vec, ELMo到BERT - 知乎](https://zhuanlan.zhihu.com/p/47488095) 
 - [[NLP] 秒懂词向量Word2vec的本质 - 知乎](https://zhuanlan.zhihu.com/p/26306795) 
