@@ -46,6 +46,9 @@
 
 
 
+
+### September 4, 2019 
+- [Debugging performance issues in Go programs | Intel® Software](https://software.intel.com/en-us/blogs/2014/05/10/debugging-performance-issues-in-go-programs) 
 ### September 3, 2019 
 - [深度学习网络调参技巧 - 知乎](https://zhuanlan.zhihu.com/p/24720954?utm_source=zhihu&utm_medium=social) 
 - [零基础入门深度学习(5) - 循环神经网络 - 作业部落 Cmd Markdown 编辑阅读器](https://zybuluo.com/hanbingtao/note/541458) 
