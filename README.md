@@ -47,6 +47,9 @@
 
 
 
+
+### September 11, 2019 
+- [Lectures in Advanced Data Structures (6.851)](http://courses.csail.mit.edu/6.851/spring12/lectures/) 
 ### September 4, 2019 
 - [Debugging performance issues in Go programs | Intel® Software](https://software.intel.com/en-us/blogs/2014/05/10/debugging-performance-issues-in-go-programs) 
 ### September 3, 2019 
