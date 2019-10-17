@@ -48,6 +48,9 @@
 
 
 
+
+### October 17, 2019 
+- [Papers of Luca Cardelli](http://lucacardelli.name/indexPapers.html) 
 ### September 11, 2019 
 - [Lectures in Advanced Data Structures (6.851)](http://courses.csail.mit.edu/6.851/spring12/lectures/) 
 ### September 4, 2019 
