@@ -49,6 +49,9 @@
 
 
 
+
+### October 21, 2019 
+- [神奇的λ演算 - 简书](https://www.jianshu.com/p/e7db2f50b012) 
 ### October 17, 2019 
 - [Papers of Luca Cardelli](http://lucacardelli.name/indexPapers.html) 
 ### September 11, 2019 
