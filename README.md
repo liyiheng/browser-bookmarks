@@ -51,6 +51,9 @@
 
 
 
+
+### October 23, 2019 
+- [Making the Tokio scheduler 10x faster · Tokio](https://tokio.rs/blog/2019-10-scheduler/) 
 ### October 22, 2019 
 - [Beamer Theme Matrix](https://hartwork.org/beamer-theme-matrix/) 
 ### October 21, 2019 
