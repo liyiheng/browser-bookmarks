@@ -52,6 +52,9 @@
 
 
 
+
+### October 28, 2019 
+- [Programming Servo: the incredibly shrinking timer. - Programming Servo - Medium](https://medium.com/programming-servo/programming-servo-the-incredibly-shrinking-timer-7283ae2a2669) 
 ### October 23, 2019 
 - [Making the Tokio scheduler 10x faster · Tokio](https://tokio.rs/blog/2019-10-scheduler/) 
 ### October 22, 2019 
