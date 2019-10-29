@@ -56,6 +56,7 @@
 
 ### October 29, 2019 
 - [面向信仰编程](https://draveness.me/) 
+- [其实你并不懂 Unicode - 知乎](https://zhuanlan.zhihu.com/p/53714077) 
 ### October 28, 2019 
 - [Programming Servo: the incredibly shrinking timer. - Programming Servo - Medium](https://medium.com/programming-servo/programming-servo-the-incredibly-shrinking-timer-7283ae2a2669) 
 - [Prometheus dns service discovery in docker swarm - Stack Overflow](https://stackoverflow.com/questions/48493901/prometheus-dns-service-discovery-in-docker-swarm) 
