@@ -54,6 +54,9 @@
 
 
 
+
+### November 10, 2019 
+- [Graph Embedding：深度学习推荐系统的"基本操作" - 知乎](https://zhuanlan.zhihu.com/p/68247149) 
 ### October 29, 2019 
 - [面向信仰编程](https://draveness.me/) 
 - [其实你并不懂 Unicode - 知乎](https://zhuanlan.zhihu.com/p/53714077) 
