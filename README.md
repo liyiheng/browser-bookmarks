@@ -58,6 +58,7 @@
 
 ### November 12, 2019 
 - [文本比较算法——最小编辑距离、图的最短路以及最长公共子序列 - 知乎](https://zhuanlan.zhihu.com/p/34640058) 
+- [TF-IDF与余弦相似度 - 知乎](https://zhuanlan.zhihu.com/p/32826433) 
 ### November 10, 2019 
 - [Graph Embedding：深度学习推荐系统的"基本操作" - 知乎](https://zhuanlan.zhihu.com/p/68247149) 
 ### October 29, 2019 
