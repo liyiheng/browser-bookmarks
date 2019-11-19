@@ -56,6 +56,9 @@
 
 
 
+
+### November 19, 2019 
+- [一文详解LDA主题模型 - 知乎](https://zhuanlan.zhihu.com/p/31470216) 
 ### November 12, 2019 
 - [文本比较算法——最小编辑距离、图的最短路以及最长公共子序列 - 知乎](https://zhuanlan.zhihu.com/p/34640058) 
 - [TF-IDF与余弦相似度 - 知乎](https://zhuanlan.zhihu.com/p/32826433) 
