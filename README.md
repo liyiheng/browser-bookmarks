@@ -57,6 +57,9 @@
 
 
 
+
+### November 20, 2019 
+- [Understanding Serde | Josh Mcguigan - The things I write](https://www.joshmcguigan.com/blog/understanding-serde/) 
 ### November 19, 2019 
 - [一文详解LDA主题模型 - 知乎](https://zhuanlan.zhihu.com/p/31470216) 
 ### November 12, 2019 
