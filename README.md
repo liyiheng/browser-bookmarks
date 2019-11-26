@@ -58,6 +58,9 @@
 
 
 
+
+### November 26, 2019 
+- [深入浅出Golang Runtime](https://mp.weixin.qq.com/s/5l4EG5fUEYBlbQMsegmL1g) 
 ### November 20, 2019 
 - [Understanding Serde | Josh Mcguigan - The things I write](https://www.joshmcguigan.com/blog/understanding-serde/) 
 ### November 19, 2019 
