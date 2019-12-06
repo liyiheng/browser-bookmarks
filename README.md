@@ -198,7 +198,7 @@
 ### January 21, 2019 
 - [Closures: Magic Functions | Rusty Yato](https://krishnasannasi.github.io/rust/syntactic/sugar/2019/01/17/Closures-Magic-Functions.html) 
 ### January 16, 2019 
-- [The Evolution of a Rust Programmer](http://antoyo.ml/evolution-rust-programmer) 
+- The Evolution of a Rust Programmer 
 ### January 14, 2019 
 - [const types, traits and implementations in Rust | varkor’s blog](https://varkor.github.io/blog/2019/01/11/const-types-traits-and-implementations-in-Rust.html) 
 ### January 11, 2019 
