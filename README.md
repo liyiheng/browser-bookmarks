@@ -60,6 +60,9 @@
 
 
 
+
+### December 17, 2019 
+- [async-std - Stop worrying about blocking: the new async-std runtime, inspired by Go](https://async.rs/blog/stop-worrying-about-blocking-the-new-async-std-runtime/) 
 ### December 6, 2019 
 - [ptmalloc、tcmalloc与jemalloc对比分析](https://cyningsun.github.io/07-07-2018/memory-allocator-contrasts.html) 
 ### November 26, 2019 
