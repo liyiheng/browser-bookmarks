@@ -62,6 +62,9 @@
 
 
 
+
+### December 27, 2019 
+- [How to Detect Accidental Blocking Code in Async Rust](https://rickyhan.com/jekyll/update/2019/12/22/convert-to-async-rust.html) 
 ### December 25, 2019 
 - [Flink 原理与实现：内存管理 | Jark's Blog](http://wuchong.me/blog/2016/04/29/flink-internals-memory-manage/) 
 ### December 17, 2019 
