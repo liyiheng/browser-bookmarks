@@ -63,6 +63,9 @@
 
 
 
+
+### January 7, 2020 
+- [pytorch分布式计算配置 - 知乎](https://zhuanlan.zhihu.com/p/38949622) 
 ### December 27, 2019 
 - [How to Detect Accidental Blocking Code in Async Rust](https://rickyhan.com/jekyll/update/2019/12/22/convert-to-async-rust.html) 
 ### December 25, 2019 
