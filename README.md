@@ -1,3 +1,6 @@
+
+### January 9, 2020 
+- [How HTTPS works - How HTTPS works](https://howhttps.works/) 
 ### January 7, 2020 
 - [pytorch分布式计算配置 - 知乎](https://zhuanlan.zhihu.com/p/38949622) 
 - [A Thorough Introduction to Distributed Systems](https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/) 
