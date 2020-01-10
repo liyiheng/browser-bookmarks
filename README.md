@@ -1,4 +1,7 @@
 
+
+### January 10, 2020 
+- [Go: Memory Management and Allocation - A Journey With Go - Medium](https://medium.com/a-journey-with-go/go-memory-management-and-allocation-a7396d430f44) 
 ### January 9, 2020 
 - [How HTTPS works - How HTTPS works](https://howhttps.works/) 
 - [如何理解Nvidia英伟达的Multi-GPU多卡通信框架NCCL？ - 知乎](https://www.zhihu.com/question/63219175/answer/206697974) 
