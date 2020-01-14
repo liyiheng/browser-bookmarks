@@ -1,5 +1,8 @@
 
 
+
+### January 14, 2020 
+- [Damn Cool Algorithms: Log structured storage - Nick's Blog](http://blog.notdot.net/2009/12/Damn-Cool-Algorithms-Log-structured-storage) 
 ### January 10, 2020 
 - [Go: Memory Management and Allocation - A Journey With Go - Medium](https://medium.com/a-journey-with-go/go-memory-management-and-allocation-a7396d430f44) 
 ### January 9, 2020 
