@@ -1,6 +1,9 @@
 
 
 
+
+### January 15, 2020 
+- [https://people.eecs.berkeley.edu/~brewer/cs262/](https://people.eecs.berkeley.edu/~brewer/cs262/) 
 ### January 14, 2020 
 - [Damn Cool Algorithms: Log structured storage - Nick's Blog](http://blog.notdot.net/2009/12/Damn-Cool-Algorithms-Log-structured-storage) 
 - [Log-structured File System - 知乎](https://zhuanlan.zhihu.com/p/41358013) 
