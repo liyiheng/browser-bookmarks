@@ -2,6 +2,9 @@
 
 
 
+
+### February 4, 2020 
+- [Lock-free vs. wait-free concurrency - RethinkDB](https://rethinkdb.com/blog/lock-free-vs-wait-free-concurrency/) 
 ### January 15, 2020 
 - [https://people.eecs.berkeley.edu/~brewer/cs262/](https://people.eecs.berkeley.edu/~brewer/cs262/) 
 ### January 14, 2020 
