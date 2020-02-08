@@ -3,6 +3,9 @@
 
 
 
+
+### February 8, 2020 
+- [Class Schedule: CS190: Software Design Studio](https://web.stanford.edu/~ouster/cgi-bin/cs190-winter20/lectures.php) 
 ### February 4, 2020 
 - [Lock-free vs. wait-free concurrency - RethinkDB](https://rethinkdb.com/blog/lock-free-vs-wait-free-concurrency/) 
 - [wait-free是指什么？ - 知乎](https://www.zhihu.com/question/295904223/answer/514363565) 
