@@ -7,6 +7,7 @@
 
 ### February 9, 2020 
 - [Rust源码分析：crossbeam-epoch 0.5.2 - 知乎](https://zhuanlan.zhihu.com/p/44169722) 
+- [Students' Guide to Raft :: Jon Gjengset](https://thesquareplanet.com/blog/students-guide-to-raft/) 
 ### February 8, 2020 
 - [Class Schedule: CS190: Software Design Studio](https://web.stanford.edu/~ouster/cgi-bin/cs190-winter20/lectures.php) 
 ### February 4, 2020 
