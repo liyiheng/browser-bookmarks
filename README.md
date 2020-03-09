@@ -6,6 +6,9 @@
 
 
 
+
+### March 9, 2020 
+- [Cheap tricks for high-performance Rust - Pascal’s Scribbles](https://deterministic.space/high-performance-rust.html) 
 ### March 6, 2020 
 - [重新发明 Y 组合子 JavaScript(ES6) 版 - 知乎](https://zhuanlan.zhihu.com/p/20616683) 
 ### February 9, 2020 
