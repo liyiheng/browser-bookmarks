@@ -7,6 +7,9 @@
 
 
 
+
+### March 10, 2020 
+- [线性一致性 - 维基百科](https://zh.wikipedia.org/wiki/%E7%BA%BF%E6%80%A7%E4%B8%80%E8%87%B4%E6%80%A7) 
 ### March 9, 2020 
 - [Cheap tricks for high-performance Rust - Pascal’s Scribbles](https://deterministic.space/high-performance-rust.html) 
 ### March 6, 2020 
