@@ -13,6 +13,7 @@
 
 ### March 27, 2020 
 - [Quickly Find Rust Program Bottlenecks Online Using a Go Tool | TiDB](https://pingcap.com/blog/quickly-find-rust-program-bottlenecks-online-using-a-go-tool/) 
+- [How To Edit Class File From A JAR File? - TalksInfo](https://www.talksinfo.com/how-to-edit-class-file-from-a-jar/) 
 ### March 25, 2020 
 - [AIO 的新归宿：io_uring - 知乎](https://zhuanlan.zhihu.com/p/62682475) 
 ### March 22, 2020 
