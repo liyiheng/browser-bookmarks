@@ -11,6 +11,9 @@
 
 
 
+
+### March 31, 2020 
+- [C++20 & Rust on Static vs Dynamic Generics - YouTube](https://www.youtube.com/watch?v=olM7o_oYML0) 
 ### March 27, 2020 
 - [Quickly Find Rust Program Bottlenecks Online Using a Go Tool | TiDB](https://pingcap.com/blog/quickly-find-rust-program-bottlenecks-online-using-a-go-tool/) 
 - [How To Edit Class File From A JAR File? - TalksInfo](https://www.talksinfo.com/how-to-edit-class-file-from-a-jar/) 
