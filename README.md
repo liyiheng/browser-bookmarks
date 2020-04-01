@@ -12,6 +12,9 @@
 
 
 
+
+### April 1, 2020 
+- [Fast and Simple Rust Interner](https://matklad.github.io/2020/03/22/fast-simple-rust-interner.html) 
 ### March 31, 2020 
 - [C++20 & Rust on Static vs Dynamic Generics - YouTube](https://www.youtube.com/watch?v=olM7o_oYML0) 
 ### March 27, 2020 
