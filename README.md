@@ -13,6 +13,9 @@
 
 
 
+
+### April 3, 2020 
+- [Reducing tail latencies with automatic cooperative task yielding · Tokio](https://tokio.rs/blog/2020-04-preemption/) 
 ### April 1, 2020 
 - [Fast and Simple Rust Interner](https://matklad.github.io/2020/03/22/fast-simple-rust-interner.html) 
 - [Stop learning "Modern C++" - 知乎](https://zhuanlan.zhihu.com/p/24516370) 
