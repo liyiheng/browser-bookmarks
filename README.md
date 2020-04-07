@@ -14,6 +14,9 @@
 
 
 
+
+### April 7, 2020 
+- [What constitutes a vulnerability?](https://boats.gitlab.io/blog/post/vulnerabilities/) 
 ### April 3, 2020 
 - [Reducing tail latencies with automatic cooperative task yielding · Tokio](https://tokio.rs/blog/2020-04-preemption/) 
 ### April 1, 2020 
