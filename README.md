@@ -18,6 +18,7 @@
 ### April 7, 2020 
 - [What constitutes a vulnerability?](https://boats.gitlab.io/blog/post/vulnerabilities/) 
 - [Async/Await | Writing an OS in Rust](https://os.phil-opp.com/async-await/#pinning) 
+- [thomashartmann.dev::On Generics and Associated Types](https://thomashartmann.dev/blog/on-generics-and-associated-types/) 
 ### April 3, 2020 
 - [Reducing tail latencies with automatic cooperative task yielding · Tokio](https://tokio.rs/blog/2020-04-preemption/) 
 ### April 1, 2020 
