@@ -15,6 +15,9 @@
 
 
 
+
+### April 8, 2020 
+- [Waker and Context - Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/2_waker_context.html) 
 ### April 7, 2020 
 - [What constitutes a vulnerability?](https://boats.gitlab.io/blog/post/vulnerabilities/) 
 - [Async/Await | Writing an OS in Rust](https://os.phil-opp.com/async-await/#pinning) 
