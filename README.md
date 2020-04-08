@@ -22,6 +22,7 @@
 - [Exploring Dynamic Dispatch in Rust](https://alschwalm.com/blog/static/2017/03/07/exploring-dynamic-dispatch-in-rust/) 
 - [云风 coroutine 协程库源码分析 | 编程沉思录](https://www.cyhone.com/articles/analysis-of-cloudwu-coroutine/) 
 - [Build your own block_on() | Stjepan’s blog](https://stjepang.github.io/2020/01/25/build-your-own-block-on.html) 
+- [Build your own executor | Stjepan’s blog](https://stjepang.github.io/2020/01/31/build-your-own-executor.html) 
 ### April 7, 2020 
 - [What constitutes a vulnerability?](https://boats.gitlab.io/blog/post/vulnerabilities/) 
 - [Async/Await | Writing an OS in Rust](https://os.phil-opp.com/async-await/#pinning) 
