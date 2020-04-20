@@ -16,6 +16,9 @@
 
 
 
+
+### April 20, 2020 
+- [Volatile变量 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/Volatile%E5%8F%98%E9%87%8F) 
 ### April 8, 2020 
 - [Waker and Context - Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/2_waker_context.html) 
 - [The Waker API I: what does a waker do?](https://boats.gitlab.io/blog/post/wakers-i/) 
