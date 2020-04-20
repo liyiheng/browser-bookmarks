@@ -22,6 +22,7 @@
 - [论面向组合子程序设计方法 之 创世纪 - ajoo - ITeye博客](https://www.iteye.com/blog/ajoo-23303) 
 - [论面向组合子程序设计方法 之 失乐园 之补充 - ajoo - ITeye博客](https://www.iteye.com/blog/ajoo-23305) 
 - [论面向组合子程序设计方法 之 燃烧的荆棘 - ajoo - ITeye博客](https://www.iteye.com/blog/ajoo-23306) 
+- [论面向组合子程序设计方法 之 新约 - ajoo - ITeye博客](https://www.iteye.com/blog/ajoo-23307) 
 ### April 8, 2020 
 - [Waker and Context - Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/2_waker_context.html) 
 - [The Waker API I: what does a waker do?](https://boats.gitlab.io/blog/post/wakers-i/) 
