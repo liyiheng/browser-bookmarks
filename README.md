@@ -19,6 +19,7 @@
 
 ### April 20, 2020 
 - [Volatile变量 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/Volatile%E5%8F%98%E9%87%8F) 
+- [论面向组合子程序设计方法 之 创世纪 - ajoo - ITeye博客](https://www.iteye.com/blog/ajoo-23303) 
 ### April 8, 2020 
 - [Waker and Context - Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/2_waker_context.html) 
 - [The Waker API I: what does a waker do?](https://boats.gitlab.io/blog/post/wakers-i/) 
