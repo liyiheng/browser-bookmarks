@@ -18,6 +18,9 @@
 
 
 
+
+### April 24, 2020 
+- [An experiment with type-erased datastructures](https://vgatherps.github.io/2020-04-14-erasure/) 
 ### April 21, 2020 
 - [论面向组合子程序设计方法 之 monad - ajoo - ITeye博客](https://www.iteye.com/blog/ajoo-23317) 
 - [论面向组合子程序设计方法 之 南无阿弥陀佛 - ajoo - ITeye博客](https://www.iteye.com/blog/ajoo-23326) 
