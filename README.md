@@ -24,6 +24,7 @@
 - [Rust lang Tips and Tricks | Mudit Gupta's Blog](https://mudit.blog/rust-tips-and-tricks/) 
 - [思考：设计一个高可用的分布式KV存储](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwMDU4Nw==&mid=2247483850&idx=1&sn=22744dc6a7254e7bb56c778fe15c733f&chksm=cff0418ef887c898a94ab10e17b5782f15f6f167a7c1b8a50e2b6b2d2c25613705a064474efa&mpshare=1&scene=1&srcid=&sharer_sharetime=1587871879711&sharer_shareid=861c47eb2beae01e59f44db260d06c6e&exportkey=AXDAyHXPaDBjQBwIANAhg78%3D&pass_ticket=GqYIrJqIh74Ozzguzpxj4W%2F0VskdM36HwEUPSCc0CcE%3D#rd) 
 - [Build up a High Availability Distributed Key-Value Store](https://medium.com/@siddontang/build-up-a-high-availability-distributed-key-value-store-b4e02bc46e9e) 
+- [TiKV 事务模型概览，Google Spanner 开源实现 | PingCAP](https://pingcap.com/blog-cn/tidb-transaction-model/) 
 ### April 24, 2020 
 - [An experiment with type-erased datastructures](https://vgatherps.github.io/2020-04-14-erasure/) 
 ### April 21, 2020 
