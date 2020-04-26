@@ -19,6 +19,9 @@
 
 
 
+
+### April 26, 2020 
+- [Rust lang Tips and Tricks | Mudit Gupta's Blog](https://mudit.blog/rust-tips-and-tricks/) 
 ### April 24, 2020 
 - [An experiment with type-erased datastructures](https://vgatherps.github.io/2020-04-14-erasure/) 
 ### April 21, 2020 
