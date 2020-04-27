@@ -23,6 +23,7 @@
 
 ### April 27, 2020 
 - [Teleforking a process onto a different computer! - Tristan Hume](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/) 
+- [Continuation-passing style - Wikipedia](https://en.wikipedia.org/wiki/Continuation-passing_style) 
 ### April 26, 2020 
 - [Rust lang Tips and Tricks | Mudit Gupta's Blog](https://mudit.blog/rust-tips-and-tricks/) 
 - [思考：设计一个高可用的分布式KV存储](https://mp.weixin.qq.com/s?__biz=Mzg4OTEwMDU4Nw==&mid=2247483850&idx=1&sn=22744dc6a7254e7bb56c778fe15c733f&chksm=cff0418ef887c898a94ab10e17b5782f15f6f167a7c1b8a50e2b6b2d2c25613705a064474efa&mpshare=1&scene=1&srcid=&sharer_sharetime=1587871879711&sharer_shareid=861c47eb2beae01e59f44db260d06c6e&exportkey=AXDAyHXPaDBjQBwIANAhg78%3D&pass_ticket=GqYIrJqIh74Ozzguzpxj4W%2F0VskdM36HwEUPSCc0CcE%3D#rd) 
