@@ -21,6 +21,9 @@
 
 
 
+
+### April 28, 2020 
+- [Game Programming Patterns](https://gameprogrammingpatterns.com/) 
 ### April 27, 2020 
 - [Teleforking a process onto a different computer! - Tristan Hume](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/) 
 - [Continuation-passing style - Wikipedia](https://en.wikipedia.org/wiki/Continuation-passing_style) 
