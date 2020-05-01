@@ -26,6 +26,7 @@
 
 ### May 1, 2020 
 - [三篇文章了解 TiDB 技术内幕 - 说存储 | PingCAP](https://pingcap.com/blog-cn/tidb-internal-1/) 
+- [三篇文章了解 TiDB 技术内幕 - 谈调度 | PingCAP](https://pingcap.com/blog-cn/tidb-internal-3/) 
 ### April 29, 2020 
 - [场景树 — Godot Engine (latest) 简体中文文档](https://docs.godotengine.org/zh_CN/latest/getting_started/step_by_step/scene_tree.html) 
 ### April 28, 2020 
