@@ -27,6 +27,7 @@
 
 ### May 4, 2020 
 - [On Disk IO, Part 1: Flavors of IO - databasss - Medium](https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017) 
+- [On Disk IO, Part 2: More Flavours of IO - databasss - Medium](https://medium.com/databasss/on-disk-io-part-2-more-flavours-of-io-c945db3edb13?) 
 ### May 1, 2020 
 - [三篇文章了解 TiDB 技术内幕 - 说存储 | PingCAP](https://pingcap.com/blog-cn/tidb-internal-1/) 
 - [三篇文章了解 TiDB 技术内幕 - 谈调度 | PingCAP](https://pingcap.com/blog-cn/tidb-internal-3/) 
