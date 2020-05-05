@@ -25,6 +25,9 @@
 
 
 
+
+### May 5, 2020 
+- [The RUM Conjecture - DASlab @ Harvard University](http://daslab.seas.harvard.edu/rum-conjecture/) 
 ### May 4, 2020 
 - [On Disk IO, Part 1: Flavors of IO - databasss - Medium](https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017) 
 - [On Disk IO, Part 2: More Flavours of IO - databasss - Medium](https://medium.com/databasss/on-disk-io-part-2-more-flavours-of-io-c945db3edb13?) 
