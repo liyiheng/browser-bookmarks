@@ -26,6 +26,9 @@
 
 
 
+
+### May 6, 2020 
+- [Standard column family - Wikipedia](https://en.wikipedia.org/wiki/Standard_column_family) 
 ### May 5, 2020 
 - [The RUM Conjecture - DASlab @ Harvard University](http://daslab.seas.harvard.edu/rum-conjecture/) 
 ### May 4, 2020 
