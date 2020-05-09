@@ -30,6 +30,7 @@
 
 ### May 9, 2020 
 - [Notes on io-uring](https://boats.gitlab.io/blog/post/io-uring/) 
+- [Zero Cost Abstractions](https://boats.gitlab.io/blog/post/zero-cost-abstractions/) 
 ### May 6, 2020 
 - [Standard column family - Wikipedia](https://en.wikipedia.org/wiki/Standard_column_family) 
 ### May 5, 2020 
