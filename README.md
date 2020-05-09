@@ -31,6 +31,7 @@
 ### May 9, 2020 
 - [Notes on io-uring](https://boats.gitlab.io/blog/post/io-uring/) 
 - [Zero Cost Abstractions](https://boats.gitlab.io/blog/post/zero-cost-abstractions/) 
+- [Models of Generics and Metaprogramming: Go, Rust, Swift, D and More - Tristan Hume](https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/) 
 ### May 6, 2020 
 - [Standard column family - Wikipedia](https://en.wikipedia.org/wiki/Standard_column_family) 
 ### May 5, 2020 
