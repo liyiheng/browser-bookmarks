@@ -29,6 +29,9 @@
 
 
 
+
+### May 16, 2020 
+- [What’s the difference between a Rust char and a Go rune? | Christian Scott](https://www.christianfscott.com/rust-chars-vs-go-runes/) 
 ### May 12, 2020 
 - [三十分钟成为 Contributor | 为 TiKV 添加 built-in 函数 | PingCAP](https://pingcap.com/blog-cn/30mins-become-contributor-of-tikv/) 
 - [TiKV 源码解析系列文章（十五）表达式计算框架 | PingCAP](https://pingcap.com/blog-cn/tikv-source-code-reading-15/) 
