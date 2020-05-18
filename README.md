@@ -30,6 +30,9 @@
 
 
 
+
+### May 18, 2020 
+- [Taking Advantage of Auto-Vectorization in Rust - Nick Wilcox's Coding Blog](https://nickwilcox.github.io/blog/autovec/) 
 ### May 16, 2020 
 - [What’s the difference between a Rust char and a Go rune? | Christian Scott](https://www.christianfscott.com/rust-chars-vs-go-runes/) 
 ### May 12, 2020 
