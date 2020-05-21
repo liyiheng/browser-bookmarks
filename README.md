@@ -31,6 +31,9 @@
 
 
 
+
+### May 21, 2020 
+- [Oxidizing the technical interview](https://blog.mgattozzi.dev/oxidizing-the-technical-interview/) 
 ### May 18, 2020 
 - [Taking Advantage of Auto-Vectorization in Rust - Nick Wilcox's Coding Blog](https://nickwilcox.github.io/blog/autovec/) 
 - [TiKV | B-Tree vs LSM-Tree](https://tikv.org/deep-dive/key-value-engine/b-tree-vs-lsm/) 
