@@ -32,6 +32,9 @@
 
 
 
+
+### May 26, 2020 
+- [弱类型、强类型、动态类型、静态类型语言的区别是什么？ - 知乎](https://www.zhihu.com/question/19918532/answer/21647195) 
 ### May 21, 2020 
 - [Oxidizing the technical interview](https://blog.mgattozzi.dev/oxidizing-the-technical-interview/) 
 - [Rust: Structuring and handling errors in 2020 - nick.groenen.me](https://nick.groenen.me/posts/rust-error-handling/) 
