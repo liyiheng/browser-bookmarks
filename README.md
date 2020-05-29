@@ -34,6 +34,9 @@
 
 
 
+
+### May 29, 2020 
+- [Rust: Dropping heavy things in another thread can make your code 10000 times faster](https://abramov.io/rust-dropping-things-in-another-thread) 
 ### May 28, 2020 
 - [Ringbahn: a safe, ergonomic API for io-uring in Rust](https://boats.gitlab.io/blog/post/ringbahn/) 
 ### May 26, 2020 
