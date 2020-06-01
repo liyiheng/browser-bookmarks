@@ -39,6 +39,7 @@
 
 ### June 1, 2020 
 - [Explaining Atomics in Rust - Explaining Atomics in Rust](https://cfsamsonbooks.gitbook.io/explaining-atomics-in-rust/) 
+- [Go and CPU Caches - Teiva Harsanyi - Medium](https://medium.com/@teivah/go-and-cpu-caches-af5d32cc5592) 
 ### May 30, 2020 
 - [Go memory ballast: How I learnt to stop worrying and love the heap](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/) 
 ### May 29, 2020 
