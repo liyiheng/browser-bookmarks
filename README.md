@@ -40,6 +40,7 @@
 ### June 1, 2020 
 - [Explaining Atomics in Rust - Explaining Atomics in Rust](https://cfsamsonbooks.gitbook.io/explaining-atomics-in-rust/) 
 - [Go and CPU Caches - Teiva Harsanyi - Medium](https://medium.com/@teivah/go-and-cpu-caches-af5d32cc5592) 
+- [Hermes: 一个快速、容错、线性一致的复制协议 - 知乎](https://zhuanlan.zhihu.com/p/141616802) 
 ### May 30, 2020 
 - [Go memory ballast: How I learnt to stop worrying and love the heap](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/) 
 ### May 29, 2020 
