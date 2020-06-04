@@ -38,6 +38,9 @@
 
 
 
+
+### June 4, 2020 
+- [Errors with stack trace – Rafał Lorenz – Software Engineer](https://rafallorenz.com/go/go-error-stack-trace/) 
 ### June 3, 2020 
 - [How to write a (toy) JVM](https://zserge.com/posts/jvm/) 
 ### June 1, 2020 
