@@ -42,6 +42,7 @@
 ### June 4, 2020 
 - [Errors with stack trace – Rafał Lorenz – Software Engineer](https://rafallorenz.com/go/go-error-stack-trace/) 
 - [High-Performance String Building in Go (Golang) - The Startup - Medium](https://medium.com/swlh/high-performance-string-building-in-go-golang-3fd99b9ca856) 
+- [探索 Go 中接口的性能](https://mp.weixin.qq.com/s/1nqpVzitGdVVvHIuk8iAeQ) 
 ### June 3, 2020 
 - [How to write a (toy) JVM](https://zserge.com/posts/jvm/) 
 ### June 1, 2020 
