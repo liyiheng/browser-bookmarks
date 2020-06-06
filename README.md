@@ -45,6 +45,7 @@
 - [Bare metal RISC-V programming in Go | Embedded Go](https://embeddedgo.github.io/2020/05/31/bare_metal_programming_risc-v_in_go.html) 
 - [Getting Hands-on with io_uring using Go](https://developers.mattermost.com/blog/hands-on-iouring-go/) 
 - [A subtle trap when formatting Go time.Time values](https://utcc.utoronto.ca/~cks/space/blog/programming/GoTimeHasLocation) 
+- [Editors (Vim) · the missing semester of your cs education](https://missing.csail.mit.edu/2020/editors/) 
 ### June 4, 2020 
 - [Errors with stack trace – Rafał Lorenz – Software Engineer](https://rafallorenz.com/go/go-error-stack-trace/) 
 - [High-Performance String Building in Go (Golang) - The Startup - Medium](https://medium.com/swlh/high-performance-string-building-in-go-golang-3fd99b9ca856) 
