@@ -39,6 +39,9 @@
 
 
 
+
+### June 6, 2020 
+- [The Go compiler needs to be smarter – Daniel Lemire's blog](https://lemire.me/blog/2020/06/04/the-go-compiler-needs-to-be-smarter/) 
 ### June 4, 2020 
 - [Errors with stack trace – Rafał Lorenz – Software Engineer](https://rafallorenz.com/go/go-error-stack-trace/) 
 - [High-Performance String Building in Go (Golang) - The Startup - Medium](https://medium.com/swlh/high-performance-string-building-in-go-golang-3fd99b9ca856) 
