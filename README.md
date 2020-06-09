@@ -41,6 +41,9 @@
 
 
 
+
+### June 9, 2020 
+- [Phil Wadler: Featherweight Go - YouTube](https://www.youtube.com/watch?v=Dq0WFigax_c&feature=youtu.be) 
 ### June 8, 2020 
 - [从入门到掉坑：Go 内存池/对象池技术介绍](https://mp.weixin.qq.com/s/SWfPV6tUC5olZgIdVabd3A) 
 - [为什么容器内存占用居高不下，频频 OOM](https://eddycjy.com/posts/why-container-memory-exceed/) 
