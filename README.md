@@ -42,6 +42,9 @@
 
 
 
+
+### June 10, 2020 
+- [Go Slices: usage and internals - The Go Blog](https://blog.golang.org/slices-intro) 
 ### June 9, 2020 
 - [Phil Wadler: Featherweight Go - YouTube](https://www.youtube.com/watch?v=Dq0WFigax_c&feature=youtu.be) 
 ### June 8, 2020 
