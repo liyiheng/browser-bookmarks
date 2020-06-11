@@ -48,6 +48,7 @@
 - [Go: String & Conversion Optimization - A Journey With Go - Medium](https://medium.com/a-journey-with-go/go-string-conversion-optimization-767b019b75ef) 
 - [Rust things I miss in C - Federico's Blog](https://people.gnome.org/~federico/blog/rust-things-i-miss-in-c.html) 
 - [A Rust SentencePiece implementation | Rust NLP tales](https://guillaume-be.github.io/2020-05-30/sentence_piece) 
+- [The Story of Tail Call Optimizations in Rust - DEV](https://dev.to/seanchen1991/the-story-of-tail-call-optimizations-in-rust-35hf) 
 ### June 10, 2020 
 - [Go Slices: usage and internals - The Go Blog](https://blog.golang.org/slices-intro) 
 - [A Tiny, Static, Full-Text Search Engine using Rust and WebAssembly | Matthias Endler](https://endler.dev/2019/tinysearch/) 
