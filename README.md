@@ -46,6 +46,7 @@
 
 ### June 11, 2020 
 - [Go: String & Conversion Optimization - A Journey With Go - Medium](https://medium.com/a-journey-with-go/go-string-conversion-optimization-767b019b75ef) 
+- [Rust things I miss in C - Federico's Blog](https://people.gnome.org/~federico/blog/rust-things-i-miss-in-c.html) 
 ### June 10, 2020 
 - [Go Slices: usage and internals - The Go Blog](https://blog.golang.org/slices-intro) 
 - [A Tiny, Static, Full-Text Search Engine using Rust and WebAssembly | Matthias Endler](https://endler.dev/2019/tinysearch/) 
