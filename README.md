@@ -47,6 +47,7 @@
 
 ### June 14, 2020 
 - [Fatih’s question | Dave Cheney: Pointers to pointers](https://dave.cheney.net/2020/05/16/fatihs-question) 
+- [Microsoft: Rust Is the Industry’s ‘Best Chance’ at Safe Systems Programming – The New Stack](https://thenewstack.io/microsoft-rust-is-the-industrys-best-chance-at-safe-systems-programming/) 
 ### June 11, 2020 
 - [Go: String & Conversion Optimization - A Journey With Go - Medium](https://medium.com/a-journey-with-go/go-string-conversion-optimization-767b019b75ef) 
 - [Rust things I miss in C - Federico's Blog](https://people.gnome.org/~federico/blog/rust-things-i-miss-in-c.html) 
