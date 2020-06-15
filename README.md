@@ -48,6 +48,7 @@
 
 ### June 15, 2020 
 - [terminology - What is the difference between "sliding" and "swiping"? - User Experience Stack Exchange](https://ux.stackexchange.com/questions/97726/what-is-the-difference-between-sliding-and-swiping) 
+- [Go reflect works like a magic - The Startup - Medium](https://medium.com/swlh/go-reflect-works-like-a-magic-575cb0cbecc2) 
 ### June 14, 2020 
 - [Fatih’s question | Dave Cheney: Pointers to pointers](https://dave.cheney.net/2020/05/16/fatihs-question) 
 - [Microsoft: Rust Is the Industry’s ‘Best Chance’ at Safe Systems Programming – The New Stack](https://thenewstack.io/microsoft-rust-is-the-industrys-best-chance-at-safe-systems-programming/) 
