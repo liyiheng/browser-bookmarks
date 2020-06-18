@@ -46,6 +46,9 @@
 
 
 
+
+### June 18, 2020 
+- [Generics and Compile-Time in Rust | TiDB](https://pingcap.com/blog/generics-and-compile-time-in-rust/) 
 ### June 15, 2020 
 - [terminology - What is the difference between "sliding" and "swiping"? - User Experience Stack Exchange](https://ux.stackexchange.com/questions/97726/what-is-the-difference-between-sliding-and-swiping) 
 - [Go reflect works like a magic - The Startup - Medium](https://medium.com/swlh/go-reflect-works-like-a-magic-575cb0cbecc2) 
