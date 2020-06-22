@@ -48,6 +48,9 @@
 
 
 
+
+### June 22, 2020 
+- [Go generics draft design: building a hashtable · Matt Layher](https://mdlayher.com/blog/go-generics-draft-design-building-a-hashtable/) 
 ### June 19, 2020 
 - [Build Your Own Container Using Less than 100 Lines of Go](https://www.infoq.com/articles/build-a-container-golang/) 
 - [G-P-M 调度模型深度解析之手撸一个高性能 goroutine 池](https://xie.infoq.cn/article/f9e05237b395fc35970b40fbb) 
