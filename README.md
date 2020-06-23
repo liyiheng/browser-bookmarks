@@ -54,6 +54,7 @@
 - [3K, 60fps, 130ms: achieving it with Rust | tonari blog](https://blog.tonari.no/why-we-love-rust?ref=twtr) 
 - [Go Make or New - Level Up Coding](https://levelup.gitconnected.com/go-make-or-new-bc19f5a57bf9) 
 - [Rust: the archetype of a message-passing bug. | Medium](https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8) 
+- [腾讯万亿级 Elasticsearch 内存效率提升技术解密 - 知乎](https://zhuanlan.zhihu.com/p/146083622?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=624590231291301888) 
 ### June 22, 2020 
 - [Go generics draft design: building a hashtable · Matt Layher](https://mdlayher.com/blog/go-generics-draft-design-building-a-hashtable/) 
 ### June 19, 2020 
