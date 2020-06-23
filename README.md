@@ -49,6 +49,9 @@
 
 
 
+
+### June 23, 2020 
+- [3K, 60fps, 130ms: achieving it with Rust | tonari blog](https://blog.tonari.no/why-we-love-rust?ref=twtr) 
 ### June 22, 2020 
 - [Go generics draft design: building a hashtable · Matt Layher](https://mdlayher.com/blog/go-generics-draft-design-building-a-hashtable/) 
 ### June 19, 2020 
