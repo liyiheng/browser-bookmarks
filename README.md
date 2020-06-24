@@ -54,6 +54,7 @@
 ### June 24, 2020 
 - [Golang 定时器底层实现深度剖析 | 编程沉思录](https://www.cyhone.com/articles/analysis-of-golang-timer/) 
 - [Go-Funk: Utility functions in your Go code - The Startup - Medium](https://medium.com/swlh/go-funk-utility-functions-in-your-go-code-6b3654b10552) 
+- [Go: Finalizers - A Journey With Go - Medium](https://medium.com/a-journey-with-go/go-finalizers-786df8e17687) 
 ### June 23, 2020 
 - [3K, 60fps, 130ms: achieving it with Rust | tonari blog](https://blog.tonari.no/why-we-love-rust?ref=twtr) 
 - [Go Make or New - Level Up Coding](https://levelup.gitconnected.com/go-make-or-new-bc19f5a57bf9) 
