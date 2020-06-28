@@ -56,6 +56,7 @@
 - [Why You Should Be Using errgroup.WithContext() in Your Golang Server Handlers](https://bionic.fullstory.com/why-you-should-be-using-errgroup-withcontext-in-golang-server-handlers/) 
 - [How to handle signals with Go to graceful shutdown HTTP server – Rafał Lorenz – Software Engineer](https://rafallorenz.com/go/handle-signals-to-graceful-shutdown-http-server/) 
 - [Experimenting with Error Handling via Generics in Go - Thoughts on Whatnot](https://deedlefake.com/experimenting-with-error-handling-via-generics-in-go.html) 
+- [Uploading Files with Spring MVC | Baeldung](https://www.baeldung.com/spring-file-upload) 
 ### June 24, 2020 
 - [Golang 定时器底层实现深度剖析 | 编程沉思录](https://www.cyhone.com/articles/analysis-of-golang-timer/) 
 - [Go-Funk: Utility functions in your Go code - The Startup - Medium](https://medium.com/swlh/go-funk-utility-functions-in-your-go-code-6b3654b10552) 
