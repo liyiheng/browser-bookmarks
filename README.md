@@ -59,6 +59,7 @@
 - [Go: Work-Stealing in Go Scheduler - A Journey With Go - Medium](https://medium.com/a-journey-with-go/go-work-stealing-in-go-scheduler-d439231be64d) 
 - [Go: What Does a Goroutine Switch Actually Involve? - A Journey With Go - Medium](https://medium.com/a-journey-with-go/go-what-does-a-goroutine-switch-actually-involve-394c202dddb7) 
 - [Go: g0, Special Goroutine - A Journey With Go - Medium](https://medium.com/a-journey-with-go/go-g0-special-goroutine-8c778c6704d8) 
+- [Go: Concurrency & Scheduler Affinity - A Journey With Go - Medium](https://medium.com/a-journey-with-go/go-concurrency-scheduler-affinity-3b678f490488) 
 ### June 28, 2020 
 - [Why You Should Be Using errgroup.WithContext() in Your Golang Server Handlers](https://bionic.fullstory.com/why-you-should-be-using-errgroup-withcontext-in-golang-server-handlers/) 
 - [How to handle signals with Go to graceful shutdown HTTP server – Rafał Lorenz – Software Engineer](https://rafallorenz.com/go/handle-signals-to-graceful-shutdown-http-server/) 
