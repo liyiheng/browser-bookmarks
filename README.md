@@ -54,6 +54,9 @@
 
 
 
+
+### July 1, 2020 
+- [Game Server in 150 lines of Rust - Jay Butera - Medium](https://medium.com/@buterajay/game-server-in-150-lines-of-rust-ce1782199907) 
 ### June 30, 2020 
 - [The Top 10 Most Common Mistakes I’ve Seen in Go Projects](https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65) 
 - [Go: Should I Use a Pointer instead of a Copy of my Struct?](https://medium.com/a-journey-with-go/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963) 
