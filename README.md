@@ -55,6 +55,9 @@
 
 
 
+
+### July 2, 2020 
+- [Git Concepts I Wish I Knew Years Ago - DEV](https://dev.to/g_abud/advanced-git-reference-1o9j?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
 ### July 1, 2020 
 - [Game Server in 150 lines of Rust - Jay Butera - Medium](https://medium.com/@buterajay/game-server-in-150-lines-of-rust-ce1782199907) 
 ### June 30, 2020 
