@@ -56,6 +56,9 @@
 
 
 
+
+### July 3, 2020 
+- [Developing a Web Application in Go using the Layered Architecture](https://medium.com/swlh/developing-a-web-application-in-go-using-the-layered-architecture-8fc13209c808) 
 ### July 2, 2020 
 - [Git Concepts I Wish I Knew Years Ago - DEV](https://dev.to/g_abud/advanced-git-reference-1o9j?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
 - [A practical guide to async in Rust - LogRocket Blog](https://blog.logrocket.com/a-practical-guide-to-async-in-rust/) 
