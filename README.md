@@ -58,6 +58,9 @@
 
 
 
+
+### July 7, 2020 
+- [Small strings in Rust - fasterthanli.me](https://fasterthanli.me/articles/small-strings-in-rust) 
 ### July 6, 2020 
 - [Writing a very fast cache service with millions of entries in Go · allegro.tech](https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html) 
 ### July 3, 2020 
