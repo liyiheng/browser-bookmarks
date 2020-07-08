@@ -59,6 +59,9 @@
 
 
 
+
+### July 8, 2020 
+- [https://mp.weixin.qq.com/s/zoTOv7oFS0k86jKfL5azfQ](https://mp.weixin.qq.com/s/zoTOv7oFS0k86jKfL5azfQ) 
 ### July 7, 2020 
 - [Small strings in Rust - fasterthanli.me](https://fasterthanli.me/articles/small-strings-in-rust) 
 - [Go Context, What, Why and How - The Startup - Medium](https://medium.com/swlh/go-context-what-why-and-how-572fc84fc233) 
