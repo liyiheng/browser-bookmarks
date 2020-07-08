@@ -61,7 +61,7 @@
 
 
 ### July 8, 2020 
-- [https://mp.weixin.qq.com/s/zoTOv7oFS0k86jKfL5azfQ](https://mp.weixin.qq.com/s/zoTOv7oFS0k86jKfL5azfQ) 
+- [万级 K8s 集群背后 etcd 稳定性及性能优化实践](https://mp.weixin.qq.com/s/zoTOv7oFS0k86jKfL5azfQ) 
 - [Common Go Pitfalls - Better Programming - Medium](https://medium.com/better-programming/common-go-pitfalls-a92197cd96d2) 
 - [Go Unsafe Pointer is Really Unsafe? - The Startup - Medium](https://medium.com/swlh/go-unsafe-pointer-is-really-unsafe-1922ca8e6fec) 
 - [Designing errors with Go 1.13 - XING Engineering](https://tech.xing.com/designing-errors-with-go-1-13-81692537457) 
