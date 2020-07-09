@@ -63,6 +63,7 @@
 
 ### July 9, 2020 
 - [String Data Type in Go. Strings in Go deserve special attention… | by Uday Hiwarale | RunGo | Medium](https://medium.com/rungo/string-data-type-in-go-8af2b639478) 
+- [Google S2 是如何解决空间覆盖最优解问题的?](https://halfrost.com/go_s2_regioncoverer/) 
 ### July 8, 2020 
 - [万级 K8s 集群背后 etcd 稳定性及性能优化实践](https://mp.weixin.qq.com/s/zoTOv7oFS0k86jKfL5azfQ) 
 - [Common Go Pitfalls - Better Programming - Medium](https://medium.com/better-programming/common-go-pitfalls-a92197cd96d2) 
