@@ -61,6 +61,9 @@
 
 
 
+
+### July 10, 2020 
+- [How I Structure Go Packages](https://bencane.com/stories/2020/07/06/how-i-structure-go-packages/#/15/0/5) 
 ### July 9, 2020 
 - [String Data Type in Go. Strings in Go deserve special attention… | by Uday Hiwarale | RunGo | Medium](https://medium.com/rungo/string-data-type-in-go-8af2b639478) 
 - [Google S2 是如何解决空间覆盖最优解问题的?](https://halfrost.com/go_s2_regioncoverer/) 
