@@ -62,6 +62,9 @@
 
 
 
+
+### July 12, 2020 
+- [How to Start with Logging in Go Projects. Part 1 | by Anatoliy Fedorenko | Mad Devs Blog — Custom Software Development Company](https://blog.maddevs.io/how-to-start-with-logging-in-golang-projects-part-1-3e3a708b75be) 
 ### July 10, 2020 
 - [How I Structure Go Packages](https://bencane.com/stories/2020/07/06/how-i-structure-go-packages/#/15/0/5) 
 ### July 9, 2020 
