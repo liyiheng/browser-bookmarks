@@ -63,6 +63,9 @@
 
 
 
+
+### July 13, 2020 
+- [golang内存对齐 - InfoQ 写作平台](https://xie.infoq.cn/article/594a7f54c639accb53796cfc7) 
 ### July 12, 2020 
 - [How to Start with Logging in Go Projects. Part 1 | by Anatoliy Fedorenko | Mad Devs Blog — Custom Software Development Company](https://blog.maddevs.io/how-to-start-with-logging-in-golang-projects-part-1-3e3a708b75be) 
 ### July 10, 2020 
