@@ -67,6 +67,7 @@
 
 ### July 15, 2020 
 - [Further Dangers of Large Heaps in Go | by Phil Pearl | Ravelin Tech Blog](https://syslog.ravelin.com/further-dangers-of-large-heaps-in-go-7a267b57d487) 
+- [Avoiding high GC overhead with large heaps | Gopher Academy Blog](https://blog.gopheracademy.com/advent-2018/avoid-gc-overhead-large-heaps/) 
 ### July 13, 2020 
 - [golang内存对齐 - InfoQ 写作平台](https://xie.infoq.cn/article/594a7f54c639accb53796cfc7) 
 ### July 12, 2020 
