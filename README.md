@@ -65,6 +65,9 @@
 
 
 
+
+### July 16, 2020 
+- [Faster Integer Parsing | Rust Malaysia](https://rust-malaysia.github.io/code/2020/07/11/faster-integer-parsing.html) 
 ### July 15, 2020 
 - [Further Dangers of Large Heaps in Go | by Phil Pearl | Ravelin Tech Blog](https://syslog.ravelin.com/further-dangers-of-large-heaps-in-go-7a267b57d487) 
 - [Avoiding high GC overhead with large heaps | Gopher Academy Blog](https://blog.gopheracademy.com/advent-2018/avoid-gc-overhead-large-heaps/) 
