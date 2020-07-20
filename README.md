@@ -69,6 +69,7 @@
 
 ### July 20, 2020 
 - [Migrating your REST APIs to HTTP/2: Why and How? | by Arindam Roy | Noteworthy - The Journal Blog](https://blog.usejournal.com/migrating-your-rest-apis-to-http-2-why-and-how-8caee7d798fb) 
+- [Clean Architecture, the right way | by Angad Sharma | DSC VIT Vellore | Medium](https://medium.com/gdg-vit/clean-architecture-the-right-way-d83b81ecac6) 
 ### July 16, 2020 
 - [Faster Integer Parsing | Rust Malaysia](https://rust-malaysia.github.io/code/2020/07/11/faster-integer-parsing.html) 
 - [String interners in Rust - DEV](https://dev.to/cad97/string-interners-in-rust-797) 
