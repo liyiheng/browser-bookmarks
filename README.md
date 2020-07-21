@@ -67,6 +67,9 @@
 
 
 
+
+### July 21, 2020 
+- [高效的王者荣耀视频英雄检测与识别](https://mp.weixin.qq.com/s?__biz=MzI2MDIxMjQyMg%3D%3D&mid=2653584361&idx=1&sn=1878247e894eee4cb6594c50f80983e7) 
 ### July 20, 2020 
 - [Migrating your REST APIs to HTTP/2: Why and How? | by Arindam Roy | Noteworthy - The Journal Blog](https://blog.usejournal.com/migrating-your-rest-apis-to-http-2-why-and-how-8caee7d798fb) 
 - [Clean Architecture, the right way | by Angad Sharma | DSC VIT Vellore | Medium](https://medium.com/gdg-vit/clean-architecture-the-right-way-d83b81ecac6) 
