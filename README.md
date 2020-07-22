@@ -68,6 +68,9 @@
 
 
 
+
+### July 22, 2020 
+- [Beginner’s Guide to Computer Vision | by Connectedreams.com | Connectedreams Blog | Medium](https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720) 
 ### July 21, 2020 
 - [高效的王者荣耀视频英雄检测与识别](https://mp.weixin.qq.com/s?__biz=MzI2MDIxMjQyMg%3D%3D&mid=2653584361&idx=1&sn=1878247e894eee4cb6594c50f80983e7) 
 ### July 20, 2020 
