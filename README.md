@@ -69,6 +69,9 @@
 
 
 
+
+### July 23, 2020 
+- [Go一一2017价值文章](https://teakki.com/pe/5a6839fc6689a6f62c2be693) 
 ### July 22, 2020 
 - [Beginner’s Guide to Computer Vision | by Connectedreams.com | Connectedreams Blog | Medium](https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720) 
 - [游戏中的图像识别：CV的新战场 - 知乎](https://zhuanlan.zhihu.com/p/136721756) 
