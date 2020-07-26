@@ -71,6 +71,9 @@
 
 
 
+
+### July 26, 2020 
+- [Reflections Tutorial: Query String to Struct Parser in Go. | by Dipesh Dulal | WesionaryTEAM | Jul, 2020 | Medium](https://medium.com/wesionary-team/reflections-tutorial-query-string-to-struct-parser-in-go-b2f858f99ea1) 
 ### July 24, 2020 
 - [gRPC Load Balancing on Kubernetes without Tears | Kubernetes](https://kubernetes.io/blog/2018/11/07/grpc-load-balancing-on-kubernetes-without-tears/) 
 - [Linkerd or Istio?. Which service mesh is the one for you? | by Diógenes Rettori | Medium](https://medium.com/@rettori/linkerd-or-istio-6fcd2aad6e42) 
