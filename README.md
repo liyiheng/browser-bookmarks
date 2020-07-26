@@ -75,6 +75,7 @@
 ### July 26, 2020 
 - [Reflections Tutorial: Query String to Struct Parser in Go. | by Dipesh Dulal | WesionaryTEAM | Jul, 2020 | Medium](https://medium.com/wesionary-team/reflections-tutorial-query-string-to-struct-parser-in-go-b2f858f99ea1) 
 - [The Biggest Misconception About Git | by David Gohberg | Medium](https://medium.com/@gohberg/the-biggest-misconception-about-git-b2f87d97ed52) 
+- [Add header to every request in Go · Developer 2.0](https://developer20.com/add-header-to-every-request-in-go/) 
 ### July 24, 2020 
 - [gRPC Load Balancing on Kubernetes without Tears | Kubernetes](https://kubernetes.io/blog/2018/11/07/grpc-load-balancing-on-kubernetes-without-tears/) 
 - [Linkerd or Istio?. Which service mesh is the one for you? | by Diógenes Rettori | Medium](https://medium.com/@rettori/linkerd-or-istio-6fcd2aad6e42) 
