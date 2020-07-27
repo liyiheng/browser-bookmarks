@@ -72,6 +72,9 @@
 
 
 
+
+### July 27, 2020 
+- [Interface Dispatch | Lukas Atkinson](https://lukasatkinson.de/2018/interface-dispatch/) 
 ### July 26, 2020 
 - [Reflections Tutorial: Query String to Struct Parser in Go. | by Dipesh Dulal | WesionaryTEAM | Jul, 2020 | Medium](https://medium.com/wesionary-team/reflections-tutorial-query-string-to-struct-parser-in-go-b2f858f99ea1) 
 - [The Biggest Misconception About Git | by David Gohberg | Medium](https://medium.com/@gohberg/the-biggest-misconception-about-git-b2f87d97ed52) 
