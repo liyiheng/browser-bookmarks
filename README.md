@@ -73,6 +73,9 @@
 
 
 
+
+### August 5, 2020 
+- [When an Interface Depends on Another Interface in Go | by Oren Rose | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/when-an-interface-depends-on-another-interface-in-go-a32d988cd21e) 
 ### July 27, 2020 
 - [Interface Dispatch | Lukas Atkinson](https://lukasatkinson.de/2018/interface-dispatch/) 
 ### July 26, 2020 
