@@ -77,6 +77,7 @@
 
 ### August 7, 2020 
 - [Go: Introduction to the Escape Analysis | by Vincent Blanchon | A Journey With Go | Aug, 2020 | Medium](https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890) 
+- [Setup Pi Zero W Headless Wifi | desertbot.io](https://desertbot.io/blog/setup-pi-zero-w-headless-wifi) 
 ### August 5, 2020 
 - [When an Interface Depends on Another Interface in Go | by Oren Rose | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/when-an-interface-depends-on-another-interface-in-go-a32d988cd21e) 
 ### July 27, 2020 
