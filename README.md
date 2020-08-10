@@ -76,6 +76,9 @@
 
 
 
+
+### August 10, 2020 
+- [Let’s implement a Bloom Filter | Extremely random blog posts from Onat](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/) 
 ### August 9, 2020 
 - [Generators in Go | blog.haardiek.org](https://blog.haardiek.org/generators-in-go) 
 ### August 7, 2020 
