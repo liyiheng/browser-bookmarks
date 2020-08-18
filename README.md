@@ -78,6 +78,9 @@
 
 
 
+
+### August 18, 2020 
+- [开发『星际争霸』的艰辛之路 - 知乎](https://zhuanlan.zhihu.com/p/24185817) 
 ### August 12, 2020 
 - [Go: Unknown Parts of the Test Package | by Vincent Blanchon](https://medium.com/a-journey-with-go/go-unknown-parts-of-the-test-package-df8988b2ef7f) 
 ### August 10, 2020 
