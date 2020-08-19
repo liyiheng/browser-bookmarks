@@ -79,6 +79,9 @@
 
 
 
+
+### August 19, 2020 
+- [Raft的PreVote实现机制 - 知乎](https://zhuanlan.zhihu.com/p/35697913) 
 ### August 18, 2020 
 - [开发『星际争霸』的艰辛之路 - 知乎](https://zhuanlan.zhihu.com/p/24185817) 
 ### August 12, 2020 
