@@ -80,6 +80,9 @@
 
 
 
+
+### August 20, 2020 
+- [学一点 Rust 内存模型会发生什么呢？(1) - 知乎](https://zhuanlan.zhihu.com/p/189694498) 
 ### August 19, 2020 
 - [Raft的PreVote实现机制 - 知乎](https://zhuanlan.zhihu.com/p/35697913) 
 ### August 18, 2020 
