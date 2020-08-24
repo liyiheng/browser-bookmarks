@@ -82,6 +82,9 @@
 
 
 
+
+### August 24, 2020 
+- [Understanding Rust slices – CodeCrash](https://codecrash.me/understanding-rust-slices) 
 ### August 21, 2020 
 - [When DRY Doesn’t Work, Go WET. It’s okay if you repeat yourself | by 🔴 Nick Bull JS | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/when-dry-doesnt-work-go-wet-6befda0444bf) 
 ### August 20, 2020 
