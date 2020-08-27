@@ -84,6 +84,9 @@
 
 
 
+
+### August 27, 2020 
+- [Secure Types | Memory Safety with Go | by Furkan Türkal | trendyol tech | Aug, 2020 | Medium](https://medium.com/trendyol-tech/secure-types-memory-safety-with-go-d3a20aa1e727) 
 ### August 25, 2020 
 - [滴滴ElasticSearch千万级TPS写入性能翻倍技术剖析](https://mp.weixin.qq.com/s?__biz=MzU1ODEzNjI2NA==&mid=2247496570&idx=1&sn=a11ff747ce40d3aa1ccc5667b5767f21&chksm=fc299dddcb5e14cb9061c1e62688607d55bd5ef9f271a4986cd938ff0d039676eed1470a53a8&mpshare=1&scene=1&srcid=0825UZNoYlgDkKaqRaXzkRBk&sharer_sharetime=1598342304308&sharer_shareid=11bb1cce7fc6309297bb214ca6909df9&exportkey=AQ6YU6IF%2B5O7m5QSbUHjOB4%3D&pass_ticket=r2UITNWG1xjkEvSJrVloLOiQa8v8AdDP3kl%2FrzlH3IA%3D&wx_header=0#rd) 
 ### August 24, 2020 
