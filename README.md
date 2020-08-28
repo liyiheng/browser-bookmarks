@@ -85,6 +85,9 @@
 
 
 
+
+### August 28, 2020 
+- [How to run Rust on Arduino Uno - DEV](https://dev.to/creativcoder/how-to-run-rust-on-arduino-uno-40c0) 
 ### August 27, 2020 
 - [Secure Types | Memory Safety with Go | by Furkan Türkal | trendyol tech | Aug, 2020 | Medium](https://medium.com/trendyol-tech/secure-types-memory-safety-with-go-d3a20aa1e727) 
 ### August 25, 2020 
