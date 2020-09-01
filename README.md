@@ -86,6 +86,9 @@
 
 
 
+
+### September 1, 2020 
+- [Go: Understand the Empty Interface | by Vincent Blanchon | A Journey With Go | Medium](https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72) 
 ### August 28, 2020 
 - [How to run Rust on Arduino Uno - DEV](https://dev.to/creativcoder/how-to-run-rust-on-arduino-uno-40c0) 
 ### August 27, 2020 
