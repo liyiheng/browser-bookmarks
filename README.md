@@ -87,6 +87,9 @@
 
 
 
+
+### September 2, 2020 
+- [Go: Multiple Errors Management. Error management in Go is always prone… | by Vincent Blanchon | A Journey With Go | Sep, 2020 | Medium](https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1) 
 ### September 1, 2020 
 - [Go: Understand the Empty Interface | by Vincent Blanchon | A Journey With Go | Medium](https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72) 
 ### August 28, 2020 
