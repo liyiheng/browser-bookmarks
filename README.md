@@ -88,6 +88,9 @@
 
 
 
+
+### September 4, 2020 
+- [Retry Mechanism and Delay Queues in Apache Kafka | by Naukri Engineering | Naukri Engineering | Medium](https://medium.com/naukri-engineering/retry-mechanism-and-delay-queues-in-apache-kafka-528a6524f722) 
 ### September 2, 2020 
 - [Go: Multiple Errors Management. Error management in Go is always prone… | by Vincent Blanchon | A Journey With Go | Sep, 2020 | Medium](https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1) 
 ### September 1, 2020 
