@@ -90,6 +90,9 @@
 
 
 
+
+### September 21, 2020 
+- [苍蝇为啥难打？原来它们用了高等数学的风骚走位 - 知乎](https://zhuanlan.zhihu.com/p/197812652) 
 ### September 14, 2020 
 - [Go: sysmon, Runtime Monitoring. ℹ️ This article is based on Go 1.14. | by Vincent Blanchon | Sep, 2020 | Medium](https://medium.com/@blanchon.vincent/go-sysmon-runtime-monitoring-cff9395060b5) 
 ### September 4, 2020 
