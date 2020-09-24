@@ -91,6 +91,9 @@
 
 
 
+
+### September 24, 2020 
+- [这就是Python3.8么，i了i了 - 知乎](https://zhuanlan.zhihu.com/p/112225021) 
 ### September 21, 2020 
 - [苍蝇为啥难打？原来它们用了高等数学的风骚走位 - 知乎](https://zhuanlan.zhihu.com/p/197812652) 
 - [BTree和B+Tree - 简书](https://www.jianshu.com/p/ac12d2c83708) 
