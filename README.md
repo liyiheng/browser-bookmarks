@@ -96,6 +96,7 @@
 ### September 25, 2020 
 - [Dynamic iterators](https://hole.tuziwo.info/dyn-iterator.html) 
 - [That's so Rusty: Metaprogramming - DEV](https://dev.to/imaculate3/that-s-so-rusty-metaprogramming-49mj) 
+- [Rust Async: async-task源码分析 - 知乎](https://zhuanlan.zhihu.com/p/92679351) 
 ### September 24, 2020 
 - [这就是Python3.8么，i了i了 - 知乎](https://zhuanlan.zhihu.com/p/112225021) 
 ### September 21, 2020 
