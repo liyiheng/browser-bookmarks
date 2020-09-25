@@ -92,6 +92,9 @@
 
 
 
+
+### September 25, 2020 
+- [Dynamic iterators](https://hole.tuziwo.info/dyn-iterator.html) 
 ### September 24, 2020 
 - [这就是Python3.8么，i了i了 - 知乎](https://zhuanlan.zhihu.com/p/112225021) 
 ### September 21, 2020 
