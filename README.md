@@ -94,6 +94,9 @@
 
 
 
+
+### October 27, 2020 
+- [Distributed locks with Redis – Redis](https://redis.io/topics/distlock) 
 ### September 29, 2020 
 - [一道比较运算符相关的面试题把我虐的体无完肤](https://mp.weixin.qq.com/s/xDV3yM-vPqWOEiks6mxKEw) 
 - [Surprises and Gotchas When Working With JSON - Alex Edwards](https://www.alexedwards.net/blog/json-surprises-and-gotchas) 
