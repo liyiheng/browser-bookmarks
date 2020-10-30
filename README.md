@@ -95,6 +95,9 @@
 
 
 
+
+### October 30, 2020 
+- [Milvus 如何实现数据动态更新与查询 - 知乎](https://zhuanlan.zhihu.com/p/122432542) 
 ### October 27, 2020 
 - [Distributed locks with Redis – Redis](https://redis.io/topics/distlock) 
 ### September 29, 2020 
