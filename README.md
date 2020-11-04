@@ -97,6 +97,9 @@
 
 
 
+
+### November 4, 2020 
+- [Rust并发：标准库sync::Once源码分析 - 知乎](https://zhuanlan.zhihu.com/p/272848155?utm_source=wechat_session&utm_medium=social&utm_oi=51691969839104&utm_content=group1_article&utm_campaign=shareopn) 
 ### November 2, 2020 
 - [Xorshift - Wikipedia](https://en.wikipedia.org/wiki/Xorshift) 
 ### October 30, 2020 
