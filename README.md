@@ -99,6 +99,9 @@
 
 
 
+
+### November 12, 2020 
+- [Keeping Your Modules Compatible - The Go Blog](https://blog.golang.org/module-compatibility) 
 ### November 5, 2020 
 - [Modern C++ development in (Neo)vim | chmanie](https://chmanie.com/post/2020/07/17/modern-c-development-in-neovim/) 
 ### November 4, 2020 
