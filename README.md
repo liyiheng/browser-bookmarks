@@ -100,6 +100,9 @@
 
 
 
+
+### November 15, 2020 
+- [Asynchronous logging in rust, or how to create predominantly lock-free bounded queue without data loss | by stencillogic stencillogic | Nov, 2020 | Medium](https://stencillogic.medium.com/asynchronous-logging-in-rust-or-how-to-create-predominantly-lock-free-bounded-queue-without-data-4cf11dfcd56) 
 ### November 12, 2020 
 - [Keeping Your Modules Compatible - The Go Blog](https://blog.golang.org/module-compatibility) 
 ### November 5, 2020 
