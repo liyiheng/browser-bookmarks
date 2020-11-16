@@ -101,6 +101,9 @@
 
 
 
+
+### November 16, 2020 
+- [理解Go语言的nil](https://mp.weixin.qq.com/s/CH7nNfPngky7i6jyDEZ2ZA) 
 ### November 15, 2020 
 - [Asynchronous logging in rust, or how to create predominantly lock-free bounded queue without data loss | by stencillogic stencillogic | Nov, 2020 | Medium](https://stencillogic.medium.com/asynchronous-logging-in-rust-or-how-to-create-predominantly-lock-free-bounded-queue-without-data-4cf11dfcd56) 
 - [Rust vs Go — Bitfield Consulting](https://bitfieldconsulting.com/golang/rust-vs-go) 
