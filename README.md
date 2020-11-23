@@ -102,6 +102,9 @@
 
 
 
+
+### November 23, 2020 
+- [Rust的Pin与Unpin — Folyd](https://folyd.com/blog/rust-pin-unpin/) 
 ### November 16, 2020 
 - [理解Go语言的nil](https://mp.weixin.qq.com/s/CH7nNfPngky7i6jyDEZ2ZA) 
 ### November 15, 2020 
