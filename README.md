@@ -103,6 +103,9 @@
 
 
 
+
+### November 25, 2020 
+- [Dependency Injection in Rust Using Waiter DI | by Paolo Victor](https://medium.com/swlh/dependency-injection-in-rust-using-waiter-di-f5140ff798ef) 
 ### November 23, 2020 
 - [Rust的Pin与Unpin — Folyd](https://folyd.com/blog/rust-pin-unpin/) 
 ### November 16, 2020 
