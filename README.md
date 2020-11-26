@@ -104,6 +104,9 @@
 
 
 
+
+### November 26, 2020 
+- [啥是Monad](https://toetoe55.github.io/post/2020-11-24-WhatIsMonad.html) 
 ### November 25, 2020 
 - [Dependency Injection in Rust Using Waiter DI | by Paolo Victor](https://medium.com/swlh/dependency-injection-in-rust-using-waiter-di-f5140ff798ef) 
 ### November 23, 2020 
