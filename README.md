@@ -108,6 +108,7 @@
 
 ### November 27, 2020 
 - [AVIF for Next-Generation Image Coding | by Netflix Technology Blog](https://netflixtechblog.com/avif-for-next-generation-image-coding-b1d75675fe4) 
+- [实战：150行Go实现高性能socks5代理](https://mp.weixin.qq.com/s?__biz=MzU4NDA0OTgwOA==&mid=2247484209&idx=1&sn=2e9a2f2000d4430d4c0ccf31b25a1344&chksm=fd9ef6cecae97fd8b264700f10bae0c97557a2cc852180454757877d9c172161227a4fa2f733&mpshare=1&scene=1&srcid=1127MhWdfDFbXcxgVIxkl2wl&sharer_sharetime=1606469994739&sharer_shareid=11bb1cce7fc6309297bb214ca6909df9&version=3.0.25.1810&platform=win#rd) 
 ### November 26, 2020 
 - [啥是Monad](https://toetoe55.github.io/post/2020-11-24-WhatIsMonad.html) 
 ### November 25, 2020 
