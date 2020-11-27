@@ -105,6 +105,9 @@
 
 
 
+
+### November 27, 2020 
+- [AVIF for Next-Generation Image Coding | by Netflix Technology Blog](https://netflixtechblog.com/avif-for-next-generation-image-coding-b1d75675fe4) 
 ### November 26, 2020 
 - [啥是Monad](https://toetoe55.github.io/post/2020-11-24-WhatIsMonad.html) 
 ### November 25, 2020 
