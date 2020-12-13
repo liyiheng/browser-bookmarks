@@ -107,6 +107,9 @@
 
 
 
+
+### December 13, 2020 
+- [Bitmasks for nicer APIs](https://www.arp242.net/bitmask.html) 
 ### December 7, 2020 
 - [What Are Golang's Anonymous Structs? - Qvault](https://qvault.io/2020/04/21/what-are-golangs-anonymous-structs/) 
 ### November 27, 2020 
