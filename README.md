@@ -108,6 +108,9 @@
 
 
 
+
+### December 14, 2020 
+- [Using std::map Wisely With Modern C++](https://medium.com/dev-genius/using-std-map-wisely-with-modern-c-cdc7c2c81b52) 
 ### December 13, 2020 
 - [Bitmasks for nicer APIs](https://www.arp242.net/bitmask.html) 
 ### December 7, 2020 
