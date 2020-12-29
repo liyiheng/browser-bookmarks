@@ -109,6 +109,9 @@
 
 
 
+
+### December 29, 2020 
+- [数据仓库介绍与实时数仓案例 - 简书](https://www.jianshu.com/p/2207a159b9bb) 
 ### December 14, 2020 
 - [Using std::map Wisely With Modern C++](https://medium.com/dev-genius/using-std-map-wisely-with-modern-c-cdc7c2c81b52) 
 ### December 13, 2020 
