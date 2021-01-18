@@ -1,5 +1,8 @@
 
 
+
+### January 18, 2021 
+- [A Quiz of Equal Operator in Go. Basic equality comparison in Go](https://wexort.medium.com/a-quiz-of-equal-operator-in-go-c2e34f130cfc) 
 ### January 13, 2021 
 - [Go and CPU Caches. How understanding the processor… | by Teiva Harsanyi | Medium](https://teivah.medium.com/go-and-cpu-caches-af5d32cc5592) 
 - [Mechanical Sympathy](https://mechanical-sympathy.blogspot.com/) 
