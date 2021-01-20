@@ -1,6 +1,9 @@
 
 
 
+
+### January 20, 2021 
+- [Stanford CS193u: Video Game Development in C++ and Unreal Engine – Tom Looman](https://www.tomlooman.com/stanford-cs193u/) 
 ### January 18, 2021 
 - [A Quiz of Equal Operator in Go. Basic equality comparison in Go](https://wexort.medium.com/a-quiz-of-equal-operator-in-go-c2e34f130cfc) 
 ### January 13, 2021 
