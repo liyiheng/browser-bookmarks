@@ -3,6 +3,9 @@
 
 
 
+
+### January 22, 2021 
+- [Pure functions in C++. Add attributes to declare a function as… | by EventHelix | Software Design | Medium](https://medium.com/software-design/pure-functions-in-c-fc102fd9c5e0) 
 ### January 21, 2021 
 - [MuscleWiki](https://musclewiki.com/) 
 ### January 20, 2021 
