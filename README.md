@@ -4,6 +4,9 @@
 
 
 
+
+### January 24, 2021 
+- [C++ moves for people who don’t know or care what rvalues are](https://medium.com/@winwardo/c-moves-for-people-who-dont-know-or-care-what-rvalues-are-%EF%B8%8F-56ee122dda7) 
 ### January 22, 2021 
 - [Pure functions in C++. Add attributes to declare a function as… | by EventHelix | Software Design | Medium](https://medium.com/software-design/pure-functions-in-c-fc102fd9c5e0) 
 ### January 21, 2021 
