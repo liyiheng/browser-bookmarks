@@ -6,6 +6,9 @@
 
 
 
+
+### January 27, 2021 
+- [Go: nil == nil is true or false? Na tum jano na hum…](https://medium.com/@shivi28/go-when-nil-nil-returns-true-a8a014abeffb) 
 ### January 26, 2021 
 - [别再问我们用什么画图的了！问就是 excalidraw · GoCN社区](https://gocn.vip/topics/11562) 
 ### January 24, 2021 
