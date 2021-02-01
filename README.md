@@ -7,6 +7,9 @@
 
 
 
+
+### February 1, 2021 
+- [云原生数据库设计新思路 | PingCAP](https://pingcap.com/blog-cn/new-ideas-for-designing-cloud-native-database/) 
 ### January 27, 2021 
 - [Go: nil == nil is true or false? Na tum jano na hum…](https://medium.com/@shivi28/go-when-nil-nil-returns-true-a8a014abeffb) 
 ### January 26, 2021 
