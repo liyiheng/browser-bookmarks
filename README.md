@@ -11,6 +11,7 @@
 
 ### February 19, 2021 
 - [B站新一代golang规则引擎的设计与实现 - InfoQ 写作平台](https://xie.infoq.cn/article/40bfff1fbca1867991a1453ac) 
+- [18张图解密新时代内存分配器TCMalloc](https://juejin.cn/post/6924899045353881608) 
 ### February 1, 2021 
 - [云原生数据库设计新思路 | PingCAP](https://pingcap.com/blog-cn/new-ideas-for-designing-cloud-native-database/) 
 ### January 27, 2021 
