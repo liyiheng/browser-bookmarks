@@ -10,6 +10,9 @@
 
 
 
+
+### March 1, 2021 
+- [KMP 算法详解 - 知乎](https://zhuanlan.zhihu.com/p/83334559) 
 ### February 25, 2021 
 - [Why Not Rust?](https://matklad.github.io/2020/09/20/why-not-rust.html) 
 ### February 19, 2021 
