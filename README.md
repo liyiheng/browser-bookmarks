@@ -15,6 +15,7 @@
 ### March 3, 2021 
 - [内存管理设计精要 - 面向信仰编程](https://draveness.me/system-design-memory-management/) 
 - [C++ to Rust - or how to render your mindset :: Jakub Duchniewicz — Personal space](https://jduchniewicz.com/posts/2021/02/c-to-rust-or-how-to-render-your-mindset/) 
+- [空结构体引发的大型打脸现场](https://mp.weixin.qq.com/s/dNeCIwmPei2jEWGF6AuWQw) 
 ### March 1, 2021 
 - [KMP 算法详解 - 知乎](https://zhuanlan.zhihu.com/p/83334559) 
 ### February 25, 2021 
