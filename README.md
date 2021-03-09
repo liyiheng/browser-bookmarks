@@ -12,6 +12,9 @@
 
 
 
+
+### March 9, 2021 
+- [Bad Case方法论 - 知乎](https://zhuanlan.zhihu.com/p/148476667) 
 ### March 3, 2021 
 - [内存管理设计精要 - 面向信仰编程](https://draveness.me/system-design-memory-management/) 
 - [C++ to Rust - or how to render your mindset :: Jakub Duchniewicz — Personal space](https://jduchniewicz.com/posts/2021/02/c-to-rust-or-how-to-render-your-mindset/) 
