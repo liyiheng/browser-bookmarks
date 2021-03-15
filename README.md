@@ -13,6 +13,9 @@
 
 
 
+
+### March 15, 2021 
+- [Writing a 3D Shooter using rg3d - #3 - Bots, AI | rg3d](https://rg3d.rs/tutorials/2021/03/11/tutorial3.html) 
 ### March 9, 2021 
 - [Bad Case方法论 - 知乎](https://zhuanlan.zhihu.com/p/148476667) 
 ### March 3, 2021 
