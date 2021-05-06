@@ -15,6 +15,9 @@
 
 
 
+
+### May 6, 2021 
+- [Embedding Rust code in Java Jar for distribution](https://www.fluvio.io/blog/2021/05/java-client/) 
 ### March 16, 2021 
 - [How We Improved Our Performance Using ElasticSearch Plugins: Part 2 | by Xiaohu Li | Tinder Engineering | Medium](https://medium.com/tinder-engineering/how-we-improved-our-performance-using-elasticsearch-plugins-part-2-b051da2ee85b) 
 - [一文读懂比BitMap有更好性能的Roaring Bitmap - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1753528) 
