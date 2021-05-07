@@ -16,6 +16,9 @@
 
 
 
+
+### May 7, 2021 
+- [阿里巴巴的日志采集分享（上） | Why·Liam·Blog](https://blog.naaln.com/2017/08/alibaba-data-track-1/) 
 ### May 6, 2021 
 - [Embedding Rust code in Java Jar for distribution](https://www.fluvio.io/blog/2021/05/java-client/) 
 ### March 16, 2021 
