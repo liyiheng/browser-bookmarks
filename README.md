@@ -20,6 +20,9 @@
 
 
 
+
+### June 18, 2021 
+- [If manually managing memory is like wielding a gun, the borrow checker is an aut... | Hacker News](https://news.ycombinator.com/item?id=27468885) 
 ### June 4, 2021 
 - [微服务拆分之道](https://mp.weixin.qq.com/s/mojOSgEUaHWGU3H3j7WjlQ) 
 ### June 3, 2021 
