@@ -21,6 +21,9 @@
 
 
 
+
+### June 29, 2021 
+- [Go: Reduce function parameters. Typically you don’t want functions that… | by Dylan Meeus | Medium](https://medium.com/@meeusdylan/go-reduce-function-parameters-19b785a87a59) 
 ### June 18, 2021 
 - [If manually managing memory is like wielding a gun, the borrow checker is an aut... | Hacker News](https://news.ycombinator.com/item?id=27468885) 
 ### June 4, 2021 
