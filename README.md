@@ -23,6 +23,9 @@
 
 
 
+
+### July 2, 2021 
+- [Titan 的设计与实现 | PingCAP](https://pingcap.com/blog-cn/titan-design-and-implementation/) 
 ### June 30, 2021 
 - [C++并发编程（C++11到C++17）](https://mp.weixin.qq.com/s/-kizIk3ZXqu7UNqAb3QlQw) 
 ### June 29, 2021 
