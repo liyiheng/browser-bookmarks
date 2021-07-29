@@ -24,6 +24,9 @@
 
 
 
+
+### July 29, 2021 
+- [Inline In Rust](https://matklad.github.io/2021/07/09/inline-in-rust.html) 
 ### July 2, 2021 
 - [Titan 的设计与实现 | PingCAP](https://pingcap.com/blog-cn/titan-design-and-implementation/) 
 ### June 30, 2021 
