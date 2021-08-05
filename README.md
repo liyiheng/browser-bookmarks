@@ -25,6 +25,9 @@
 
 
 
+
+### August 5, 2021 
+- [The push for GATs stabilization | Rust Blog](https://blog.rust-lang.org/2021/08/03/GATs-stabilization-push.html) 
 ### July 29, 2021 
 - [Inline In Rust](https://matklad.github.io/2021/07/09/inline-in-rust.html) 
 ### July 2, 2021 
