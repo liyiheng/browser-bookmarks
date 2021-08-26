@@ -26,6 +26,9 @@
 
 
 
+
+### August 26, 2021 
+- [一文详解Redis中BigKey、HotKey的发现与处理](https://mp.weixin.qq.com/s/FPYE1B839_8Yk1-YSiW-1Q) 
 ### August 5, 2021 
 - [The push for GATs stabilization | Rust Blog](https://blog.rust-lang.org/2021/08/03/GATs-stabilization-push.html) 
 ### July 29, 2021 
