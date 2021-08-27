@@ -30,6 +30,7 @@
 
 ### August 27, 2021 
 - [Functors, Applicatives, And Monads In Pictures - adit.io](https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) 
+- [Functors, Applicatives, And Monads In Pictures - adit.io](http://jiyinyiyong.github.io/monads-in-pictures/) 
 ### August 26, 2021 
 - [一文详解Redis中BigKey、HotKey的发现与处理](https://mp.weixin.qq.com/s/FPYE1B839_8Yk1-YSiW-1Q) 
 ### August 5, 2021 
