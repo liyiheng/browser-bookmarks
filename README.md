@@ -26,8 +26,8 @@
 
 
 
-
-
+### 2022-06-24
+- [一道有趣的pyjail题目分析](https://xz.aliyun.com/t/9271)
 
 ### September 3, 2021 
 - [源码剖析panic与recover，看不懂你打我好了！](https://mp.weixin.qq.com/s/qBZQMcZ14ipPmf1JxkMVeg) 
