@@ -21,9 +21,9 @@
 
 
 
-
 ### 2022-07-05
 - [Service Mesh 框架选型对比分析：Linkerd、Envoy、Istio、Conduit](https://xie.infoq.cn/article/fa7e10501c948f177d9f52fe0)
+- [万字长文带你入门Istio](https://zhuanlan.zhihu.com/p/369068128)
 
 ### 2022-06-24
 - [一道有趣的pyjail题目分析](https://xz.aliyun.com/t/9271)
