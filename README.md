@@ -11,8 +11,8 @@
 
 
 
-
-
+### 2022-08-25
+- [Random Walks](https://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/random.htm)
 
 ### 2022-08-22
 - [JWT, JWS and JWE for Not So Dummies! (Part I)](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3)
