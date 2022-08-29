@@ -8,8 +8,8 @@
 
 
 
-
-
+### 2022-08-29
+- [Plugins in Rust: The Technologies  (WASM)](https://nullderef.com/blog/plugin-tech/)
 
 ### 2022-08-25
 - [Random Walks](https://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/random.htm)
