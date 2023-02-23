@@ -7,7 +7,7 @@
 
 
 ### 2023-02-23
-- [Ray Tracing Tutorial](https://matthews.sites.wfu.edu/courses/tutorials/RayTrace/RayTracing.html)
+- [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html#overview)
 
 ### 2022-08-29
 - [Plugins in Rust: The Technologies  (WASM)](https://nullderef.com/blog/plugin-tech/)
