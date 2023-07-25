@@ -3,10 +3,12 @@
 
 
 
-
+### 2023-07-23
+- [Performance comparison: linear search vs binary search.](https://dirtyhandscoding.wordpress.com/2017/08/25/performance-comparison-linear-search-vs-binary-search/)
+- [A cool Rust optimization story](https://quickwit.io/blog/search-a-sorted-block)
 
 ### 2023-02-28
--[RoaringBitmap](https://zhuanlan.zhihu.com/p/445396980)
+- [RoaringBitmap](https://zhuanlan.zhihu.com/p/445396980)
 
 ### 2023-02-23
 - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html#overview)
