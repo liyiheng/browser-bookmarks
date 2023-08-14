@@ -1,7 +1,7 @@
 
 
-
-
+### 2023-08-14
+- [Learning Async Rust With Entirely Too Many Web Servers](https://ibraheem.ca/posts/too-many-web-servers/)
 
 ### 2023-07-23
 - [Performance comparison: linear search vs binary search.](https://dirtyhandscoding.wordpress.com/2017/08/25/performance-comparison-linear-search-vs-binary-search/)
