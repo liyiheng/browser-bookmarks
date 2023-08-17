@@ -1,4 +1,5 @@
-
+### 2023-08-17
+- [I built a garbage collector for a language that doesn't need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
 
 ### 2023-08-14
 - [Learning Async Rust With Entirely Too Many Web Servers](https://ibraheem.ca/posts/too-many-web-servers/)
