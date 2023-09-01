@@ -1,3 +1,6 @@
+### 2023-09-01
+- [用人话讲明白线性回归LinearRegression](https://zhuanlan.zhihu.com/p/72513104)
+
 ### 2023-08-17
 - [I built a garbage collector for a language that doesn't need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
 
