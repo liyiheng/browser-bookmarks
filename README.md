@@ -1,3 +1,6 @@
+### 2024-08-27
+- [平台对业务敏捷支撑的挑战](https://www.ryu.xin/2021/07/22/lattice-small-biz-support/)
+
 ### 2023-09-01
 - [用人话讲明白线性回归LinearRegression](https://zhuanlan.zhihu.com/p/72513104)
 
