@@ -1,3 +1,6 @@
+### 2025-08-21
+- [Mocking in Rust: Mockall and alternatives](https://blog.logrocket.com/mocking-rust-mockall-alternatives/)
+  
 ### 2024-08-29
 - [阿里交易系统TMF2.0技术揭秘](https://developer.aliyun.com/article/511876)
 
