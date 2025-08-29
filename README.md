@@ -1,3 +1,6 @@
+### 2025-08-29
+- [Lessons learned from implementing SIMD-accelerated algorithms (ChaCha20 / ChaCha12) in pure Rust](https://kerkour.com/rust-simd)
+  
 ### 2025-08-21
 - [Mocking in Rust: Mockall and alternatives](https://blog.logrocket.com/mocking-rust-mockall-alternatives/)
   
