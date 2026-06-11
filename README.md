@@ -1,3 +1,6 @@
+### 2026-06-11
+- [Code is not text](https://ataraxy-labs.com/blogs/code-is-not-text)
+
 ### 2025-08-29
 - [Lessons learned from implementing SIMD-accelerated algorithms (ChaCha20 / ChaCha12) in pure Rust](https://kerkour.com/rust-simd)
   
